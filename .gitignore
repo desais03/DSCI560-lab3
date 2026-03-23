@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.so
+*.pgm
+*.tar.gz
+*.b64
